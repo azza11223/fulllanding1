@@ -1,0 +1,256 @@
+
+*{
+margin: auto;
+    box-sizing: border-box;
+    
+}
+.pr{
+    width: 1320px;
+    height: 1141px;
+
+}
+   
+
+
+.topheader{
+    width: 1320px;
+    height: 113px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+hr{
+  color: rgba(227, 227, 227, 1);
+  width: 1320px;
+}
+.menu{
+    width: 1320px;
+    
+    border: none;
+    display: flex;
+    justify-content:unset
+ 
+}
+button{
+    border: none;
+
+}
+.product{
+    width: 1320px;
+    margin-top: 3%;
+    display: flex;
+    background-image: url(flower-pattern.png);
+
+}
+@font-face {
+    font-family: "roboto";
+    src: url(RobotoCondensed-VariableFont_wght.ttf);
+}
+h1{
+    font-family: "roboto";
+    font-weight: 300;
+    font-size: 74px;
+    line-height: 55px;
+    color: rgba(0, 0, 0, 1);
+    }
+
+p{
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 55px;
+    color: rgba(0, 0, 0, 1);
+
+}
+.shop{
+    width: 223px;
+    height: 72px;
+    background-color: rgba(30, 40, 50, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 33,98px;
+
+}
+.brand, .hot{
+    margin-top: 5%;
+   display: flex;
+   justify-content: center;
+}
+
+.h1{
+    font-family: "roboto";
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 58.59px;
+    text-align: center;
+    color: 
+    rgba(0, 0, 0, 1);
+    margin-top: 6%;
+}
+
+.bt{
+    width: 1320px;
+   
+
+    
+    
+    
+}
+.title{
+    width: 1320px;
+    height: 32px;
+    
+   
+    
+ 
+}
+.all{
+    width: 92px;
+    height: 22px;
+    color: black;
+}
+.shirt{
+    color: darkgrey;
+}
+.filter{
+    background-image: url(filter.png );
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: rgba(30, 40, 50, 1);
+    width: 92px;
+    height: 32px;
+    color: azure;
+  
+ 
+}
+.container{
+    width: 1320px;
+   display: flex;
+   justify-content: space-between;
+   margin: 0;
+   margin-top:2%;
+
+
+}
+.container1{
+    width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin: 0;
+}
+span{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 2px;
+   
+}
+.price{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    
+    
+    
+}
+
+.under{
+    width: 292px;
+    margin-top: 5%;
+    display: flex;
+    margin: 0;
+    box-sizing: border-box;
+  
+   
+    }
+.card{
+    width: 312px;
+    height: 478px;
+    
+
+
+}    
+h6{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+}
+.baner{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+h2{
+    width: 267px;
+    height: 59px;
+    margin-top: 5%;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+}
+.h2{
+    text-align: center;
+    width: 1013px;
+}
+.h3{
+    width: 707px;
+    
+}
+
+.show{
+    width: 93px;
+    height: 32px;
+    background-color: rgba(30, 40, 50, 1);
+    color: white;
+}
+.instag{
+    width: 1320px;
+    height: 319px;
+   
+}
+.ins{
+    margin-top: 5%;
+}
+.sub{
+    width: 760px;
+    height: 165px;
+    margin-top: 5%;
+    align-items: center;
+    
+
+}
+.email{
+    width: 643px;
+    height: 32px;
+    border: none;
+    margin-top: 5%;
+}
+button{
+    margin-top: 2%;
+}
+.footer{
+    display: flex;
+    margin-top: 10%;
+}
+.end{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+.submit{
+    width: 91px;
+    height: 22px;
+    border: none;
+}
+.line{
+    width: 690px;
+}
+    
+    
