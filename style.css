@@ -185,6 +185,7 @@ h6{
     line-height: 21.79px;
 }
 .baner{
+    width:100%;
     display: flex;
     justify-content: center;
     margin-top: 5%;
