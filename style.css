@@ -1,9 +1,11 @@
-.header{
-    width: 100%;
+
 *{
 margin: auto;
     box-sizing: border-box;
     
+}
+.header{
+    width: 100%;
 }
 .pr{
     width: 1320px;
